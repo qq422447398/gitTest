@@ -12,4 +12,8 @@ public class ClassA {
     public ClassA(int id) {
         this.id = id;
     }
+
+    public void display(){
+        System.out.println("hello");
+    }
 }
