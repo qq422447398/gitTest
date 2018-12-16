@@ -15,6 +15,6 @@ public class ClassA {
 
     public void display(){
         System.out.println("hello");
-        System.out.println("111111");
+        System.out.println("123456");
     }
 }
